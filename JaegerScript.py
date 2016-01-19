@@ -2,7 +2,10 @@ import subprocess, threading
 import os,signal
 from subprocess import Popen, PIPE
 
-
+#This tool was made by Rafael Gil
+#depasonico@gmail.com
+#
+#
 #This is the main menu in this section we choose the kind of pentest to be deployed
 #It is important use the new structure of Python 3
 #
