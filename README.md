@@ -3,16 +3,16 @@
 
 [+] Pentesting script to make your life easier 
 
-This is a tool for external and intenatl pentest to make your life easier during the first stage of the test. This tool is a wrapper of different open source tools found in kali box version 2 64 bits, other tools can be found over internet from sites such as: https://labs.portcullis.co.uk, https://www.exploit-db.com/, etc. 
+This is a tool for external and internal pentest to make your life easier during the first stage of the test. This tool is a wrapper of different open source tools found in kali box version 2 64 bits, other tools can be found over internet from sites such as: https://labs.portcullis.co.uk, https://www.exploit-db.com/, etc. 
 
-[+] Contobutions 
+[+] Contributions 
 
 If you want to contribute to this project please feel free to do so, you can fork this project and make copies of it just please refer this original site in all your work.
 
 
 [+] Requirements 
 
-In orer to use this tool you will need to have:
+In order to use this tool you will need to have:
 
 	[*] python 3
 	[*] python-nmap
@@ -30,7 +30,7 @@ In orer to use this tool you will need to have:
 
 [+] Setup
 
-	[*] Install all dependecies
+	[*] Install all dependencies
 	[*] git clone https://github.com/depasonico/JaegerScript.git JaegerScript
 	[*] cd JaegerScript
 	
